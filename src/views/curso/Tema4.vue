@@ -1,6 +1,6 @@
 <template lang="pug">
 .curso-main-container.pb-3
-  BannerInterno(:subTitulo="'3. Experiencias educativas'")
+  BannerInterno(:subTitulo="'4. Experiencias educativas'")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
 
     .row.mb-5
@@ -23,7 +23,7 @@
     
     p.mb-4 El análisis de casos y buenas prácticas en educación inicial permite comprender cómo diferentes metodologías y estrategias pedagógicas impactan el aprendizaje y desarrollo infantil.
 
-    .bg-full-width.bg-color-8.mb-lg-5
+    .bg-full-width.bg-color-8.mb-5
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-7.order-2
@@ -44,10 +44,10 @@
       h2 #[span 4.2] Desarrollo de propuestas didácticas basadas en experiencias reales
     
     .row.mb-5
-      .col-lg-4.order-2
+      .col-lg-4.order-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema4/4.png", data-aos="zoom-in")
-      .col-lg-8.order-1.mb-3.mb-lg-0
+      .col-lg-8.order-lg-1
         .bg-color-1.p-4.mb-4(data-aos="fade-left")
           p.mb-0 ¿Cómo pueden los futuros licenciados en educación infantil, diseñar y aplicar propuestas didácticas significativas en sus centros de práctica para los niveles de prejardín y jardín? Esta es una de las preguntas fundamentales que deben guiar la práctica pedagógica. Al reflexionar sobre esta cuestión, se debe tener en cuenta que el diseño de experiencias educativas en la primera infancia no solo implica la aplicación de métodos de enseñanza, sino también la capacidad de adaptarse al contexto, observar las necesidades específicas de los niños y crear un ambiente propicio para el aprendizaje.
         p(data-aos="fade-left") Como estudiante de licenciatura en educación infantil, se encuentra en una etapa crucial de su formación en la que debe aprender a combinar la teoría con la práctica. El diseño y la implementación de propuestas didácticas son habilidades claves que debe desarrollar para ofrecer experiencias educativas enriquecedoras a los niños de prejardín y jardín. Pero, ¿cómo lograr que esas propuestas sean realmente efectivas y adecuadas para el contexto de su centro de práctica? 
@@ -68,10 +68,10 @@
             p Sin lugar a dudas, uno de los aspectos más importantes de su práctica pedagógica. Es aquí donde debe aplicar lo aprendido en sus cursos teóricos, pero también estar preparado para adaptarse y ajustar la propuesta, según las circunstancias que se presenten. Los niños de la primera infancia tienen ritmos y necesidades diversas, por lo que es fundamental ser flexible en el enfoque pedagógico. En el aula, las propuestas deben ser dinámicas y adaptativas para que cada niño pueda participar activamente y aprender de acuerdo con sus posibilidades.
     
     .row.align-items-start.mb-5
-      .col-lg-4.order-2
+      .col-lg-4.order-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema4/6.png", alt="").mb-4.mb-lg-0
-      .col-lg-8.mb-3.mb-lg-0.order-1
+      .col-lg-8.order-lg-1
     
         AcordionA(tipo="b")
           .div(titulo="Observación continua")
@@ -111,7 +111,7 @@
     
     p.mb-4 La práctica pedagógica es un proceso dinámico que requiere reflexión constante sobre su impacto en el aprendizaje y desarrollo de los niños.
 
-    .bg-full-width.bg-color-8.mb-lg-5
+    .bg-full-width.bg-color-8.mb-5
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-7.order-2

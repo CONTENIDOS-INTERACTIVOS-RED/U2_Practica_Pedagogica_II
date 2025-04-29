@@ -87,10 +87,10 @@
       h2 #[span 1.2] Elementos claves en la elaboración de una planeación didáctica
     
     .row.mb-5
-      .col-lg-4.order-2
+      .col-lg-4.order-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/12.png", data-aos="zoom-in")
-      .col-lg-8.order-1.mb-3.mb-lg-0
+      .col-lg-8.order-lg-1
         .bg-color-8.p-4.mb-3(data-aos="fade-left")
           p Después de comprender qué es una planeación didáctica y su importancia en la educación infantil, es fundamental conocer los elementos que la componen. La planificación no es solo una lista de actividades; es un proceso estructurado que guía la enseñanza y garantiza que el aprendizaje de los niños y  las niñas sea significativo.
         p(data-aos="fade-left") Para diseñar una planeación efectiva en prejardín y jardín, es necesario considerar los siguientes elementos claves:
@@ -123,10 +123,10 @@
             p Es fundamental reflexionar sobre el proceso de evaluación que observan en el aula: ¿Cómo evalúa el docente el aprendizaje? ¿Se consideran estrategias inclusivas para niños con necesidades especiales? ¿Cómo se realiza la evaluación en contextos rurales o en aulas sin acceso a recursos tecnológicos?
 
     .row.mb-5
-      .col-lg-4.order-2
+      .col-lg-4.order-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/14.png", data-aos="zoom-in")
-      .col-lg-8.order-1.mb-3.mb-lg-0
+      .col-lg-8.order-lg-1
         p(data-aos="fade-left") Es esencial, como futuros docentes, comprender que la planeación didáctica debe ser flexible y adaptarse a las necesidades del aula. En su observación, deben cuestionarse: ¿Cómo se está abordando la diversidad en la planeación? ¿Se contemplan estrategias inclusivas? ¿Cómo puede un docente adaptar su planeación en entornos con pocas herramientas o en zonas rurales?
         p(data-aos="fade-left") La planeación didáctica no solo organiza la enseñanza, sino que también debe garantizar que todos los niños y  las niñas tengan oportunidades de aprendizaje equitativas y significativas.
     
@@ -152,7 +152,7 @@
     
     p.mb-4 La planificación en la educación infantil es un pilar fundamental para garantizar experiencias de aprendizaje significativas y adaptadas a las necesidades del desarrollo infantil.
 
-    .bg-full-width.bg-color-8.mb-lg-5
+    .bg-full-width.bg-color-8.mb-5
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-7.mb-3.mb-lg-0
@@ -174,7 +174,7 @@
     
     p.mb-4 La planeación didáctica en la educación infantil es clave para diseñar experiencias de aprendizaje significativas que respondan a las necesidades de los niños en sus primeras etapas de desarrollo.
 
-    .bg-full-width.bg-color-8.mb-lg-5
+    .bg-full-width.bg-color-8.mb-5
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-7.order-2

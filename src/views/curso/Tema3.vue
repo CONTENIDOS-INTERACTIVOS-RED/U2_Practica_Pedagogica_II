@@ -27,7 +27,7 @@
       .col-lg-8.order-1.mb-3.mb-lg-0
         p(data-aos="fade-left") Las metodologías educativas en el contexto de la práctica pedagógica, son esenciales para el diseño y la implementación de propuestas didácticas que favorezcan el aprendizaje integral en los niños. En este sentido, las metodologías activas permiten que los niños se conviertan en protagonistas de su propio aprendizaje, participando activamente en la construcción de su conocimiento. En el centro de práctica, los estudiantes de licenciatura deben enfocarse en estrategias que fomenten la interacción, la creatividad y la resolución de problemas, adaptadas a las características y necesidades de cada niño. A continuación, se describen las metodologías educativas más relevantes para la práctica pedagógica en el nivel preescolar.
     
-    .bg-full-width.bg-color-8.mb-lg-5
+    .bg-full-width.bg-color-8.mb-5
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-7.order-2
@@ -105,7 +105,7 @@
     
     p.mb-4 La alineación de la propuesta didáctica con los principios pedagógicos institucionales es un aspecto clave para garantizar un aprendizaje significativo en la primera infancia.
 
-    .bg-full-width.bg-color-8.mb-lg-5
+    .bg-full-width.bg-color-8.mb-5
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-7.order-2

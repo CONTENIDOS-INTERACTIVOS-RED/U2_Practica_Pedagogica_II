@@ -59,7 +59,7 @@
     
     p.mb-4 A continuación, se presentan estrategias didácticas claves para la enseñanza en educación infantil, con ejemplos concretos, basados en situaciones reales observadas en el aula y considerando la atención a la diversidad.
 
-    .bg-full-width.bg-color-8.mb-lg-5
+    .bg-full-width.bg-color-8.mb-5
       .px-4.p-md-5
         .row.justify-content-center.align-items-center
           .col-lg-7.mb-3.mb-lg-0
