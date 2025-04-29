@@ -6,7 +6,7 @@
     #t_3_1.titulo-segundo(data-aos="flip-up")
       h2 #[span 3.1] Subtítulo tema
 
-
+  
 
     .bg-full-width.border-top.color-primario
       .p-4.p-md-5
@@ -35,7 +35,7 @@
 
 <script>
 export default {
-  name: 'Tema3',
+  name: 'Tema4',
   mounted() {
     this.$nextTick(() => {
       this.$aosRefresh()
